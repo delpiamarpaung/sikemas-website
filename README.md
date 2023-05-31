@@ -1,5 +1,4 @@
 # sikemas-website
-# 21-01-Sikemas
 Repository ini digunakan untuk menyimpan artefak proyek mata kuliah 12S3101 Pemrograman dan Pengujian Aplikasi Web di Institut Teknologi Del. Topik: Sistem Informasi Kepuasan Masyarakat
 
 #Sikemas
@@ -10,17 +9,17 @@ Adapun tujuan dibangunnya Sistem Informasi Survei Kepuasan Masyarakat adalah:
 3.	Mendorong penyelenggara pelayanan menjadi lebih inovatif dalam menyelenggarakan pelayanan publik.
 4.	Mengukur kecenderungan tingkat kepuasan masyarakat terhadap pelayanan publik.
 
-#Struktur Kerja
+# Struktur Kerja
 Berikut adalah rancangan kerja aplikasi Sikemas yang dibangun dengan python dan menggunakan Django Framework.
 
 
 ![image](https://user-images.githubusercontent.com/78084196/136371668-20d65f88-8198-4096-a8cb-873181a2c887.png)
 
-#Struktur Database
+# Struktur Database
 
 ![Struktur_Database](https://user-images.githubusercontent.com/78084196/136371820-3bcf7d31-1979-429c-8830-93ec16f7b33a.jpeg)
 
-#Instalasi dan Konfigurasi Sikemas
+# Instalasi dan Konfigurasi Sikemas
 1. Installation
 Untuk menjalankan repository ini, terlebih dahulu clone repository ini ke lokal komputer anda dan pastikan telah melakukan instalasi django framework pada komputer anda.
 Langkah-langkah instalasi django framework yaitu:
